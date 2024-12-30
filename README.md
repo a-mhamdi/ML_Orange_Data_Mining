@@ -1,2 +1,4 @@
-# ML_Orange_Data_Mining
+# ML with Orange Data Mining App
 Using Orange for Machine Learning Applications
+
+![Orange](orange-data-mining.png)
