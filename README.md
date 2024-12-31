@@ -10,18 +10,15 @@ pip install orange3
 
 ![Orange](imgs/orange-data-mining.png)
 
-## Data Preprocessing
+## Snippets
 
 ![Data Preprocessing](imgs/data-preprocessing.svg)
 
-## Linear Regression
-
 ![Linear Regression](imgs/linear-regression.svg)
-
-## Classification
 
 ![Classification](imgs/classification.svg)
 
-## Clustering
-
 ![Clustering](imgs/clustering.svg)
+
+![Neural Network](imgs/neural-network.svg)
+
